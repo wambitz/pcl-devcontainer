@@ -25,4 +25,4 @@ link_directories(${PCL_LIBRARY_DIRS})
 add_definitions(${PCL_DEFINITIONS})
 
 # Add subdirectories for each project
-# TODO: add_subdirectory(00_HelloWorld)
+add_subdirectory(00_HelloWorld)
